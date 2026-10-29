@@ -1,7 +1,7 @@
 # HTML4
 
-## Membuat semantic html dengan menggunakan table
+## Membuat semantic html dengan menggunakan css grid
 
 ## Screenshoot gambar
 
-![index.html](screenshoot_index.html.png)
+![grid_css](screenshoot-grid_css.png)
